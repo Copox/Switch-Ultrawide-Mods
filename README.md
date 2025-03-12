@@ -31,3 +31,4 @@ All the files inside mods folder are necessary, some mods contains cheats file, 
 If you encounter any issues with the mods, please let me know.
 
 All mods are free, but if you want to support me: https://ko-fi.com/Fl4sh9174
+这是一个小众游戏mod的分支
